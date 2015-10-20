@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>3 4
+12	=C2	3	%27Sample
+=A1+B1%2aC1/5	=A2%2aB1	=B3-C3	%27Spread
+%27Test	=4-3	5	%27Sheet
+</StartArguments>
+  </PropertyGroup>
+</Project>
