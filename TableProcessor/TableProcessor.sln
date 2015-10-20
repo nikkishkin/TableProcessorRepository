@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableProcessor", "TableProcessor\TableProcessor.csproj", "{E169919C-C84E-479B-8B4C-6D677E9851EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62CF3425-9413-437B-9752-EB9B2F92EB5F}"
+	ProjectSection(SolutionItems) = preProject
+		Backup.txt = Backup.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableProcessor.Testing", "TableProcessor.Testing\TableProcessor.Testing.csproj", "{2A8CA991-307A-4E7B-AFC7-E83B44FE4696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E169919C-C84E-479B-8B4C-6D677E9851EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E169919C-C84E-479B-8B4C-6D677E9851EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E169919C-C84E-479B-8B4C-6D677E9851EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E169919C-C84E-479B-8B4C-6D677E9851EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8CA991-307A-4E7B-AFC7-E83B44FE4696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8CA991-307A-4E7B-AFC7-E83B44FE4696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8CA991-307A-4E7B-AFC7-E83B44FE4696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8CA991-307A-4E7B-AFC7-E83B44FE4696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\XIS\7 sem\Work2\TableProcessor\TableProcessor\bin\Debug\TableProcessor.exe.config
+C:\XIS\7 sem\Work2\TableProcessor\TableProcessor\bin\Debug\TableProcessor.exe
+C:\XIS\7 sem\Work2\TableProcessor\TableProcessor\bin\Debug\TableProcessor.pdb
+C:\XIS\7 sem\Work2\TableProcessor\TableProcessor\obj\Debug\TableProcessor.csprojResolveAssemblyReference.cache
+C:\XIS\7 sem\Work2\TableProcessor\TableProcessor\obj\Debug\TableProcessor.exe
+C:\XIS\7 sem\Work2\TableProcessor\TableProcessor\obj\Debug\TableProcessor.pdb
