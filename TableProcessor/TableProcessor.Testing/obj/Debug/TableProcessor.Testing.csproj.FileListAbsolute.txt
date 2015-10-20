@@ -1,9 +1,0 @@
-C:\XIS\7 sem\Work2\TableProcessor\TableProcessor.Testing\bin\Debug\TableProcessor.Testing.dll
-C:\XIS\7 sem\Work2\TableProcessor\TableProcessor.Testing\bin\Debug\TableProcessor.Testing.pdb
-C:\XIS\7 sem\Work2\TableProcessor\TableProcessor.Testing\bin\Debug\nunit.framework.dll
-C:\XIS\7 sem\Work2\TableProcessor\TableProcessor.Testing\bin\Debug\TableProcessor.exe
-C:\XIS\7 sem\Work2\TableProcessor\TableProcessor.Testing\bin\Debug\TableProcessor.pdb
-C:\XIS\7 sem\Work2\TableProcessor\TableProcessor.Testing\bin\Debug\nunit.framework.xml
-C:\XIS\7 sem\Work2\TableProcessor\TableProcessor.Testing\obj\Debug\TableProcessor.Testing.csprojResolveAssemblyReference.cache
-C:\XIS\7 sem\Work2\TableProcessor\TableProcessor.Testing\obj\Debug\TableProcessor.Testing.dll
-C:\XIS\7 sem\Work2\TableProcessor\TableProcessor.Testing\obj\Debug\TableProcessor.Testing.pdb
